@@ -1,8 +1,6 @@
 # FileHandlingPrograms Repository
 
-This file contains all the files from the ZIP archive in a GitHub-friendly markdown format.
 
-- `FileHandlingPrograms/AbsCwd` *(binary or non-source file, not shown here)*
 ## `FileHandlingPrograms/AbsCwd.c`
 
 ```c
